@@ -1,0 +1,8 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "Keep track of your income and expenses",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
